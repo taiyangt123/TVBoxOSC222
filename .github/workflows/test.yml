@@ -10,8 +10,8 @@ on:
 
   
 env:
-  userName: kensonmiao
-  repoName: CatVodTVOSC
+  userName: jiyi039
+  repoName: CatVodTVOSDa
   branchName: main
 
 jobs:
